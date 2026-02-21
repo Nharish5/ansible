@@ -1,0 +1,7 @@
+- name: "harish"
+  dob: "1998-05-25"
+  mobileNumber: 12346678
+  addresses:
+  - flatNumber: 444
+    street: "gandhi nagar"
+    city: vmd
